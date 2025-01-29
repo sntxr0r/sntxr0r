@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sntxr0r
 - 👀 I’m interested in making cool projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, TypeScript, Angular
 - 💞️ I’m looking to collaborate on cool stuff
 
 <!---
